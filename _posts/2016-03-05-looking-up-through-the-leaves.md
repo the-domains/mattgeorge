@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:a4e06e96-9343-4e0b-a804-d18bbdb38d73'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-05T23:11:10.785Z'
+dateModified: '2016-03-05T23:11:03.650Z'
 author: []
-datePublished: '2016-03-05T22:35:20.096Z'
-publisher:
-  domain: ''
-  name: ''
 title: Looking Up Through the Leaves
-dateModified: '2016-03-05T22:35:16.600Z'
 sourcePath: _posts/2016-03-05-looking-up-through-the-leaves.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: looking-up-through-the-leaves/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Looking Up Through the Leaves
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc1bda5e-65e3-4daa-aea0-b2409d1ca981.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2306636157668f4fd70bfac7eecada9fe7db635.png)
