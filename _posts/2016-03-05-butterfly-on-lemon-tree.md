@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:e8263480-02c0-44cf-95af-7b56eee45af9'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-05T21:03:39.869Z'
+dateModified: '2016-03-05T21:03:30.433Z'
 author: []
-datePublished: '2016-03-05T21:02:06.481Z'
-publisher:
-  domain: ''
-  name: ''
 title: Butterfly on Lemon Tree
-dateModified: '2016-03-05T17:49:04.490Z'
 sourcePath: _posts/2016-03-05-butterfly-on-lemon-tree.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: butterfly-on-lemon-tree/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Butterfly on Lemon Tree
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df06602b-33d2-4dec-a5ab-51e2bfab25f9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2569c234b7fb0d57cfc468a1beefb64ae53267e3.png)
