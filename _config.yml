@@ -1,0 +1,28 @@
+name: MattGeorge
+favicon: null
+layout_spectrum: 0.3796721377875656
+typography_spectrum: 0.7023960850201547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9254396960604936
+  lightness: 0.5836656775791198
+  saturation: 0.5492113304790109
+  rhythmicContrast: 0.8696662280708551
+purpose: []
