@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:3bf40f83-bec4-4b82-ac7f-4e972c5a4445'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-05T21:03:31.213Z'
+dateModified: '2016-03-05T21:02:48.420Z'
 author: []
-datePublished: '2016-03-05T17:49:24.935Z'
-publisher:
-  domain: ''
-  name: ''
 title: The Pink Rose
-dateModified: '2016-03-05T17:48:31.706Z'
 sourcePath: _posts/2016-03-05-the-pink-rose.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: the-pink-rose/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
