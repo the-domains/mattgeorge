@@ -1,4 +1,8 @@
-layout_spectrum: 0.188172
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.4874552
+  saturation: 0
   brandStrength: 0.9254396960604936
-  lightness: 0.4749104
+  lightness: 0
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  rhythmicContrast: 0.4892473
+  rhythmicContrast: 0
 typography_spectrum: 0.7023960850201547
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.188172
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: MattGeorge
