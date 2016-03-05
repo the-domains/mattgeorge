@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T21:03:31.213Z'
-dateModified: '2016-03-05T21:02:48.420Z'
+datePublished: '2016-03-05T21:05:53.565Z'
+dateModified: '2016-03-05T21:05:02.571Z'
 author: []
 title: The Pink Rose
 sourcePath: _posts/2016-03-05-the-pink-rose.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # The Pink Rose
-![Pink Rose &commat;mextures](https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/12783228_1661237784141518_2061360059_n.jpg?ig_cache_key=MTE5NTIyMDUyMjQ0NDA2ODExNg%3D%3D.2)
+![Pink Rose @mextures](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df3727f9384a97a24f6e1ca67b886a2a249496c7.jpg)
